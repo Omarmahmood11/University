@@ -16,6 +16,14 @@ The **Lab Work** folder contains all the programs and assignments I worked on du
 
 The **Academic Projects** folder houses larger projects that I either worked on individually or contributed to as part of my coursework. These projects were completed at the end of each semester and allowed me to apply the concepts and skills I learned throughout the courses. The projects cover a wide range of subjects, with a particular focus on AI and Machine Learning.
 
+## Connect with Me
+
+If you share a passion for lifelong learning and want to discuss courses, share recommendations, or exchange insights, let's connect!
+
+- LinkedIn: [Omar Mahmood](linkedin.com/in/omar-mahmood-b5032317)
+- Twitter: [@0marmahmud](https://twitter.com/0marmahmud)
+- Email: omarmahmood11@gmail.com
+
 ### **Usage**
 Feel free to explore any project that piques your interest. Each project folder includes a dedicated README file that provides comprehensive instructions on setting up the environment, running the code, and reproducing the results. If you encounter any issues or have questions, please don't hesitate to open an issue in the respective project's repository.
 
